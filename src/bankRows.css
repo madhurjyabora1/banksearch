@@ -1,0 +1,18 @@
+.faclass{
+    padding-left: 20px;
+    font-size: 30px;
+}
+.newb{
+    background-color: white; 
+    border: none;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 0px 0px;
+    cursor: pointer;
+    color: black; 
+  border: 2px solid #4CAF50;
+  
+}
